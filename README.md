@@ -1,3 +1,5 @@
+# VM "fixed" SEB ;) 
+just dont forget to change  system manufacturer name and model in VM settings as we dont want 'Computer 'virtualbox' appears to not be a virtual machine.' msg in logs
 # Safe Exam Browser, Version 3.x
 
 Refactored version of Safe Exam Browser for Windows with Chromium as integrated browser engine.
